@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JsonConvert</string>
+    <string name="hint_key">key</string>
+    <string name="hint_value">value</string>
+    <string name="accumulation">蓄積</string>
+    <string name="show">表示</string>
+    <string name="search">検索</string>
+    <string name="delete">削除</string>
+</resources>
